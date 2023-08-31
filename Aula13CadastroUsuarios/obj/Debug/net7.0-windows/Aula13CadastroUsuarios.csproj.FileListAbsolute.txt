@@ -1,0 +1,17 @@
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\bin\Debug\net7.0-windows\Aula13CadastroUsuarios.exe
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\bin\Debug\net7.0-windows\Aula13CadastroUsuarios.deps.json
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\bin\Debug\net7.0-windows\Aula13CadastroUsuarios.runtimeconfig.json
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\bin\Debug\net7.0-windows\Aula13CadastroUsuarios.dll
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\Aula13CadastroUsuarios.csproj.AssemblyReference.cache
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\Aula13CadastroUsuarios.Form1.resources
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\Aula13CadastroUsuarios.csproj.GenerateResource.cache
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\Aula13CadastroUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\Aula13CadastroUsuarios.AssemblyInfoInputs.cache
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\Aula13CadastroUsuarios.AssemblyInfo.cs
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\Aula13CadastroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\Aula13CadastroUsuarios.dll
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\refint\Aula13CadastroUsuarios.dll
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\Aula13CadastroUsuarios.pdb
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\Aula13CadastroUsuarios.genruntimeconfig.cache
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\obj\Debug\net7.0-windows\ref\Aula13CadastroUsuarios.dll
+C:\Users\juno.amaral\source\repos\Aula13CadastroUsuarios\Aula13CadastroUsuarios\bin\Debug\net7.0-windows\Aula13CadastroUsuarios.pdb
